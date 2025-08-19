@@ -1,6 +1,6 @@
 
 
-# 🐳 Docker Frontend + Backend + Database
+# 🐳 Docker Project , Frontend + Backend + Database
 
 This project demonstrates how to implement a simple 3-tier architecture using Docker. It includes:
 
